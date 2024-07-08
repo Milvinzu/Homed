@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Unicorn\\source\\repos\\Homed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17309404-2F96-47D7-B9E7-681ECDD2DE76}|Homed\\Homed.csproj|c:\\users\\unicorn\\source\\repos\\homed\\homed\\controllers\\apiscotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17309404-2F96-47D7-B9E7-681ECDD2DE76}|Homed\\Homed.csproj|solutionrelative:homed\\controllers\\apiscotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17309404-2F96-47D7-B9E7-681ECDD2DE76}|Homed\\Homed.csproj|c:\\users\\unicorn\\source\\repos\\homed\\homed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17309404-2F96-47D7-B9E7-681ECDD2DE76}|Homed\\Homed.csproj|solutionrelative:homed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIsCotroller.cs",
+              "DocumentMoniker": "C:\\Users\\Unicorn\\source\\repos\\Homed\\Homed\\Controllers\\APIsCotroller.cs",
+              "RelativeDocumentMoniker": "Homed\\Controllers\\APIsCotroller.cs",
+              "ToolTip": "C:\\Users\\Unicorn\\source\\repos\\Homed\\Homed\\Controllers\\APIsCotroller.cs",
+              "RelativeToolTip": "Homed\\Controllers\\APIsCotroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:54:35.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Unicorn\\source\\repos\\Homed\\Homed\\Program.cs",
+              "RelativeDocumentMoniker": "Homed\\Program.cs",
+              "ToolTip": "C:\\Users\\Unicorn\\source\\repos\\Homed\\Homed\\Program.cs",
+              "RelativeToolTip": "Homed\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:44:55.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
